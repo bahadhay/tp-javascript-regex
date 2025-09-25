@@ -1,35 +1,26 @@
-# 📄 Rapport : Exercices JavaScript et Expressions Régulières
+# Rapport de Projet - Exercices JavaScript & Regex
 
-Ce dépôt contient un ensemble d'exercices pratiques créés dans le cadre d'un projet de fin de semestre. L'objectif principal est de démontrer une application concrète des concepts de **JavaScript**, avec un accent particulier sur l'utilisation des **expressions régulières (Regex)** pour la validation de données.
+## Description du Projet
+Ce projet est un compte rendu de travaux pratiques réalisés en développement web. Il a pour objectif de démontrer la maîtrise des concepts suivants :
+* **JavaScript :** Manipulation du DOM (Document Object Model) pour créer des pages interactives.
+* **Expressions Régulières (Regex) :** Utilisation de motifs de recherche pour la validation de chaînes de caractères (e-mails, numéros de téléphone, etc.).
+* **Développement Front-end :** Structuration d'un projet web avec HTML, CSS et JavaScript, et organisation des fichiers pour une navigation claire.
 
----
+Le site web sert à la fois de rapport technique et de démonstration interactive, permettant de tester les exercices directement.
 
-### **Objectifs du Projet**
+## Structure des Fichiers
+Le projet est organisé de la manière suivante :
+* `report.html` : La page d'accueil et le rapport principal, qui présente le projet et sert de "table des matières".
+* `tp.html` : Contient les exercices JavaScript et les formulaires de validation avec Regex.
+* `cards.html` : Un exercice de design avec des cartes CSS interactives.
+* `load.html` : Une page de chargement avec animation CSS et redirection en JavaScript.
+* `style.css`, `load.css`, `cards.css` : Fichiers de styles pour chaque section du site.
+* `script.js` : Le fichier de logique JavaScript contenant les fonctions de validation.
 
-Le but de ce projet est de consolider et de présenter les compétences suivantes à des fins d'évaluation académique :
+## Technologies Utilisées
+* **HTML5**
+* **CSS3**
+* **JavaScript**
 
-* **Maîtrise de la logique JavaScript :** Créer des fonctions pour des tests et des validations côté client.
-* **Utilisation des Expressions Régulières :** Appliquer des Regex pour la vérification de la structure de chaînes de caractères (e-mails, numéros de téléphone, etc.).
-* **Gestion des interactions utilisateur :** Manipuler le DOM pour afficher des résultats et fournir un retour d'information instantané.
-
----
-
-### **Contenu du Dépôt**
-
-Ce projet est structuré pour présenter les exercices de manière organisée.
-
-* `tp.html` : La page principale qui contient les différents formulaires et champs d'entrée pour tester les exercices.
-* `script.js` : Le cœur du projet, où se trouve toute la logique de validation et les fonctions JavaScript.
-* `cards.html` & `cards.css` : Une page complémentaire démontrant des compétences en design CSS, avec des cartes interactives.
-* `load.html` & `load.css` : Une animation simple d'écran de chargement pour illustrer des animations CSS de base et la redirection de page en JavaScript.
-* `style.css` : La feuille de style principale du projet.
-
----
-
-### **Technologies Utilisées**
-
-| Technologie | Rôle dans le Projet |
-| :--- | :--- |
-| **HTML** | Structure de la page et des formulaires pour les exercices. |
-| **CSS** | Style des pages, animations (écran de chargement) et mise en page. |
-| **JavaScript** | Logique de validation, manipulation du DOM et application des expressions régulières. |
+## Comment visualiser le projet
+Pour accéder au rapport de projet, il suffit d'ouvrir le fichier `report.html` dans votre navigateur web. Vous pouvez ensuite naviguer vers les différentes pages d'exercices via les liens fournis.
